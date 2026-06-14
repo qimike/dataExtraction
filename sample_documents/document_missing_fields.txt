@@ -1,0 +1,5 @@
+Notes
+
+Some thoughts captured during the offsite. We talked through a few ideas about
+the onboarding flow and where people get stuck, but nothing is decided yet.
+Follow up next week.

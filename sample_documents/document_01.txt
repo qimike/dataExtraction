@@ -1,0 +1,17 @@
+Retrieval-Augmented Generation for Clinical Question Answering
+Patel, A., Nguyen, T., and Rossi, M. (2024)
+Proceedings of the Conference on Health Informatics, vol. 11, pp. 88-104.
+
+Corresponding author: a.patel@meditech-research.org
+DOI: 10.1109/HCI.2024.0042
+
+Abstract
+We present a retrieval-augmented generation (RAG) system for answering
+clinical questions over electronic health records. Building on the work of
+Lewis et al. (2020) and the dense-retrieval methods of Karpukhin et al.
+(2020), our approach grounds each generated answer in retrieved passages and
+reports calibrated uncertainty. Across three benchmark datasets, the system
+improves answer accuracy by 9.4% over a strong non-retrieval baseline while
+reducing unsupported claims, as discussed by Patel et al. (2024).
+
+Keywords: retrieval-augmented generation, clinical NLP, question answering

@@ -1,0 +1,17 @@
+Sparse Mixture-of-Experts Routing for Long-Context Models
+
+Authors: J. Okafor, R. Mehta, L. Persson
+Affiliation: Institute for Scalable Computing
+
+We study routing strategies for sparse mixture-of-experts (MoE) layers in
+long-context transformers, showing that load-balanced top-k routing preserves
+quality while cutting active parameters by 60%. Our analysis builds on prior
+work in efficient attention and conditional computation.
+
+References
+  [1] Vaswani, A., et al. Attention Is All You Need. NeurIPS, 2017.
+  [2] Shazeer, N., et al. Outrageously Large Neural Networks. ICLR, 2017.
+  [3] Okafor, J., Mehta, R. Efficient Transformers in Practice. 2022.
+
+DOI: 10.48550/arXiv.2406.01234
+Cited by: 87

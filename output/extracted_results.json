@@ -1,0 +1,272 @@
+[
+  {
+    "document_id": "doc_001",
+    "source_file": "document_01.txt",
+    "attempts": 1,
+    "retried": false,
+    "extraction": {
+      "document_id": {
+        "value": "doc_001",
+        "confidence": 1.0
+      },
+      "title": {
+        "value": "Retrieval-Augmented Generation for Clinical Question Answering",
+        "confidence": 0.97
+      },
+      "document_type": {
+        "value": "research_paper",
+        "confidence": 0.96
+      },
+      "summary": {
+        "value": "A RAG system that grounds clinical question answering in retrieved EHR passages, improving accuracy and reducing unsupported claims.",
+        "confidence": 0.91
+      },
+      "other_document_type_detail": null,
+      "publication_date": {
+        "value": "2024-01-01",
+        "confidence": 0.55
+      },
+      "author": {
+        "value": "Patel, A., Nguyen, T., Rossi, M.",
+        "confidence": 0.93
+      },
+      "organization": {
+        "value": "Conference on Health Informatics",
+        "confidence": 0.7
+      },
+      "email": {
+        "value": "a.patel@meditech-research.org",
+        "confidence": 0.98
+      },
+      "phone_number": {
+        "value": null,
+        "confidence": 0.99
+      },
+      "doi": {
+        "value": "10.1109/HCI.2024.0042",
+        "confidence": 0.98
+      },
+      "citation_count": {
+        "value": null,
+        "confidence": 0.95
+      },
+      "overall_confidence": 0.89
+    }
+  },
+  {
+    "document_id": "doc_002",
+    "source_file": "document_02.txt",
+    "attempts": 2,
+    "retried": true,
+    "extraction": {
+      "document_id": {
+        "value": "doc_002",
+        "confidence": 1.0
+      },
+      "title": {
+        "value": "Annual Sustainability Report 2023",
+        "confidence": 0.96
+      },
+      "document_type": {
+        "value": "report",
+        "confidence": 0.92
+      },
+      "summary": {
+        "value": "GreenGrid Energy Cooperative's 2023 sustainability report covering emissions reductions, member generation growth, and 2030 net-zero plans.",
+        "confidence": 0.9
+      },
+      "other_document_type_detail": null,
+      "publication_date": {
+        "value": "2024-03-01",
+        "confidence": 0.8
+      },
+      "author": {
+        "value": "Office of Corporate Responsibility",
+        "confidence": 0.82
+      },
+      "organization": {
+        "value": "GreenGrid Energy Cooperative",
+        "confidence": 0.95
+      },
+      "email": {
+        "value": "sustainability@greengrid.coop",
+        "confidence": 0.97
+      },
+      "phone_number": {
+        "value": "+1 (415) 555-0148",
+        "confidence": 0.96
+      },
+      "doi": {
+        "value": null,
+        "confidence": 0.99
+      },
+      "citation_count": {
+        "value": null,
+        "confidence": 0.99
+      },
+      "overall_confidence": 0.91
+    }
+  },
+  {
+    "document_id": "doc_003",
+    "source_file": "document_03.txt",
+    "attempts": 1,
+    "retried": false,
+    "extraction": {
+      "document_id": {
+        "value": "doc_003",
+        "confidence": 1.0
+      },
+      "title": {
+        "value": "Invoice INV-2024-3391",
+        "confidence": 0.88
+      },
+      "document_type": {
+        "value": "invoice",
+        "confidence": 0.97
+      },
+      "summary": {
+        "value": "A consulting invoice from Brightpath Consulting LLC to Harborview Logistics totaling $10,397.56, due 2024-06-11.",
+        "confidence": 0.92
+      },
+      "other_document_type_detail": null,
+      "publication_date": {
+        "value": "2024-05-12",
+        "confidence": 0.85
+      },
+      "author": {
+        "value": null,
+        "confidence": 0.9
+      },
+      "organization": {
+        "value": "Brightpath Consulting LLC",
+        "confidence": 0.94
+      },
+      "email": {
+        "value": "billing@brightpath-consulting.com",
+        "confidence": 0.98
+      },
+      "phone_number": {
+        "value": "(212) 555-0193",
+        "confidence": 0.96
+      },
+      "doi": {
+        "value": null,
+        "confidence": 0.99
+      },
+      "citation_count": {
+        "value": null,
+        "confidence": 0.99
+      },
+      "overall_confidence": 0.93
+    }
+  },
+  {
+    "document_id": "doc_005",
+    "source_file": "document_table_format.txt",
+    "attempts": 1,
+    "retried": false,
+    "extraction": {
+      "document_id": {
+        "value": "doc_005",
+        "confidence": 1.0
+      },
+      "title": {
+        "value": "Master Services Agreement",
+        "confidence": 0.98
+      },
+      "document_type": {
+        "value": "contract",
+        "confidence": 0.95
+      },
+      "summary": {
+        "value": "A master services agreement governing contract manufacturing services for Vertex Manufacturing Group, including confidentiality and termination clauses.",
+        "confidence": 0.9
+      },
+      "other_document_type_detail": null,
+      "publication_date": {
+        "value": "2024-01-15",
+        "confidence": 0.9
+      },
+      "author": {
+        "value": "Dana Whitfield, General Counsel",
+        "confidence": 0.95
+      },
+      "organization": {
+        "value": "Vertex Manufacturing Group",
+        "confidence": 0.96
+      },
+      "email": {
+        "value": "contracts@vertex-mfg.com",
+        "confidence": 0.97
+      },
+      "phone_number": {
+        "value": "+1 (650) 555-0177",
+        "confidence": 0.96
+      },
+      "doi": {
+        "value": null,
+        "confidence": 0.99
+      },
+      "citation_count": {
+        "value": null,
+        "confidence": 0.99
+      },
+      "overall_confidence": 0.95
+    }
+  },
+  {
+    "document_id": "doc_006",
+    "source_file": "document_bibliography_format.txt",
+    "attempts": 1,
+    "retried": false,
+    "extraction": {
+      "document_id": {
+        "value": "doc_006",
+        "confidence": 1.0
+      },
+      "title": {
+        "value": "Sparse Mixture-of-Experts Routing for Long-Context Models",
+        "confidence": 0.97
+      },
+      "document_type": {
+        "value": "research_paper",
+        "confidence": 0.95
+      },
+      "summary": {
+        "value": "A research paper studying load-balanced top-k routing for sparse mixture-of-experts layers in long-context transformers.",
+        "confidence": 0.9
+      },
+      "other_document_type_detail": null,
+      "publication_date": {
+        "value": null,
+        "confidence": 0.7
+      },
+      "author": {
+        "value": "J. Okafor, R. Mehta, L. Persson",
+        "confidence": 0.94
+      },
+      "organization": {
+        "value": "Institute for Scalable Computing",
+        "confidence": 0.62
+      },
+      "email": {
+        "value": null,
+        "confidence": 0.97
+      },
+      "phone_number": {
+        "value": null,
+        "confidence": 0.99
+      },
+      "doi": {
+        "value": "10.48550/arXiv.2406.01234",
+        "confidence": 0.96
+      },
+      "citation_count": {
+        "value": 87,
+        "confidence": 0.93
+      },
+      "overall_confidence": 0.88
+    }
+  }
+]

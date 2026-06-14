@@ -1,0 +1,30 @@
+[
+  {
+    "document_id": "doc_001",
+    "field_name": "publication_date",
+    "extracted_value": "2024-01-01",
+    "confidence_score": 0.55,
+    "review_reason": "Field confidence 0.55 is below the 0.80 threshold."
+  },
+  {
+    "document_id": "doc_001",
+    "field_name": "organization",
+    "extracted_value": "Conference on Health Informatics",
+    "confidence_score": 0.7,
+    "review_reason": "Field confidence 0.70 is below the 0.80 threshold."
+  },
+  {
+    "document_id": "doc_006",
+    "field_name": "publication_date",
+    "extracted_value": null,
+    "confidence_score": 0.7,
+    "review_reason": "Field confidence 0.70 is below the 0.80 threshold."
+  },
+  {
+    "document_id": "doc_006",
+    "field_name": "organization",
+    "extracted_value": "Institute for Scalable Computing",
+    "confidence_score": 0.62,
+    "review_reason": "Field confidence 0.62 is below the 0.80 threshold."
+  }
+]

@@ -1,0 +1,62 @@
+[
+  {
+    "document_id": "doc_004",
+    "source_file": "document_missing_fields.txt",
+    "succeeded": false,
+    "attempts": 1,
+    "retried": false,
+    "final_category": "missing_information",
+    "invalid_extraction": {
+      "document_id": {
+        "value": "doc_004",
+        "confidence": 1.0
+      },
+      "title": {
+        "value": null,
+        "confidence": 0.2
+      },
+      "document_type": {
+        "value": "other",
+        "confidence": 0.4
+      },
+      "summary": {
+        "value": "Informal offsite notes about the onboarding flow; no decisions recorded.",
+        "confidence": 0.6
+      },
+      "other_document_type_detail": {
+        "value": "informal notes",
+        "confidence": 0.4
+      },
+      "publication_date": {
+        "value": null,
+        "confidence": 0.95
+      },
+      "author": {
+        "value": null,
+        "confidence": 0.95
+      },
+      "organization": {
+        "value": null,
+        "confidence": 0.95
+      },
+      "email": {
+        "value": null,
+        "confidence": 0.99
+      },
+      "phone_number": {
+        "value": null,
+        "confidence": 0.99
+      },
+      "doi": {
+        "value": null,
+        "confidence": 0.99
+      },
+      "citation_count": {
+        "value": null,
+        "confidence": 0.99
+      },
+      "overall_confidence": 0.45
+    },
+    "validation_error": "Validation failed:\n- field '': Value error, Required field 'title' must have a non-null value. (type=value_error)"
+  }
+]
